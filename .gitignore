@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm project settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables (API keys, secrets)
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Excel autosave files
+~$*
